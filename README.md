@@ -40,11 +40,6 @@ This repository documents my **6-week internship experience at SAP**, where I ga
 - Learned basic syntax, report generation, and database handling.  
 
 ---
-## 📜 Internship Certificate
-
-![SAP Internship Certificate](certificate.png)
-
----
 
 ## 🛠️ Tools & Technologies Used  
 - **Languages:** Python, ABAP  
