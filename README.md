@@ -1,4 +1,4 @@
-# 🌐 SAP Internship – Final Report  
+# 🌐 SAP Internship 
 
 ## 📌 Overview  
 This repository documents my **6-week internship experience at SAP**, where I gained exposure to various technologies including **Artificial Intelligence, Machine Learning, IoT, Deep Learning, and SAP ABAP**. The program was a mix of learning sessions, hands-on projects, and a final presentation, which helped me strengthen both my technical and professional skills.  
@@ -38,6 +38,11 @@ This repository documents my **6-week internship experience at SAP**, where I ga
 ### 🔹 SAP ABAP  
 - Introduction to **ABAP programming**.  
 - Learned basic syntax, report generation, and database handling.  
+
+---
+## 📜 Internship Certificate
+
+![SAP Internship Certificate](certificate.png)
 
 ---
 
