@@ -15,7 +15,7 @@ This repository documents my **6-week internship experience at SAP**, where I ga
 ---
 ## Certificate
 
-![Internship Certificate](certificate.png)
+![Internship Certificate](Documents/Screenshot 2025-09-25 095555.png)
 
 ---
 
