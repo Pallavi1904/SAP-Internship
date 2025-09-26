@@ -13,6 +13,11 @@ This repository documents my **6-week internship experience at SAP**, where I ga
 - To enhance problem-solving, teamwork, and presentation skills.  
 
 ---
+## Certificate
+
+![Internship Certificate](certificate.png)
+
+---
 
 ## 📚 Learning Modules  
 
